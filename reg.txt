@@ -1,0 +1,10 @@
+# Registraation Form
+echo 'Registration in Progress'
+date
+echo 'Enter firstname'
+read name1
+echo 'enter lastname'
+read name2
+echo 'You are welcome to Edutech Department'
+echo 'Thi is the onset of your billionaire journey'
+
